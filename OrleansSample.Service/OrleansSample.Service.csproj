@@ -11,7 +11,7 @@
 		<PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
     
     <PackageReference Include="Aspire.Azure.Data.Tables" Version="8.0.2" />
-    <PackageReference Include="Aspire.Azure.Storage.Blobs" Version="8.0.2" />
+    <PackageReference Include="Aspire.Azure.Storage.Blobs" Version="8.0.1" />
     <PackageReference Include="Aspire.Azure.Storage.Queues" Version="8.0.2" />
     <PackageReference Include="Microsoft.Orleans.Server" Version="8.2.0" />
     <PackageReference Include="Microsoft.Orleans.Sdk" Version="8.2.0" />
